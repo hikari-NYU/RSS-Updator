@@ -59,3 +59,9 @@ namely, updating the old pieces of news.
 	1. Build up the formerly mentioned directories.
 	2. Implement class ControlPanel with the parameters needed.
 	3. Call the jobOn method of the instance.
+
+######Future:
+-----
+* The project is still being updated.
+* Currently only able to read and store.
+* Newest news showcase and XML output not completed yet.
